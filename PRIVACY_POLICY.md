@@ -83,5 +83,5 @@ We may update our Privacy Policy periodically to reflect changes in our practice
 If you have any questions, suggestions, or feedback regarding this Privacy Policy, please contact us. You may use the "Email Inquiry" feature within the app settings or contact the developer directly via the Google Play Store console link.
 
 **Privacy Policy Metadata**:
-- **Hosting URL**: https://github.com/deepflowdev/OO-Video-Downloader---Fast-Easy-HLS-M3U8-Downloader/main/PRIVACY_POLICY.md
+- **Hosting URL**: https://github.com/deepflowdev/OO-Video-Downloader---Fast-Easy-HLS-M3U8-Downloader/blob/main/PRIVACY_POLICY.md
 - **Developer**: KVNewbie

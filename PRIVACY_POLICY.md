@@ -84,4 +84,4 @@ If you have any questions, suggestions, or feedback regarding this Privacy Polic
 
 **Privacy Policy Metadata**:
 - **Hosting URL**: https://github.com/deepflowdev/OO-Video-Downloader---Fast-Easy-HLS-M3U8-Downloader/blob/main/PRIVACY_POLICY.md
-- **Developer**: KVNewbie
+- **Developer**: deepflowdev
